@@ -1,0 +1,11 @@
+# PostgreSQL / Docker-related ignores
+*.log
+*.env
+*.db
+__pycache__/
+.env/
+node_modules/
+.vscode/
+.DS_Store
+*.tar
+*.gz
